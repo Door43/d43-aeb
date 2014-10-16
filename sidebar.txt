@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aeb:home|Door43 (aeb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aeb|d43-aeb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aeb/archive/master.zip|d43-aeb.zip]]
+
+**Recent Changes**
+{{changes>ns = aeb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aeb|Ethnologue data]]
+
